@@ -1,6 +1,6 @@
 # Targeted-AAA-Screening
 
-This repository shares the code lists for our analysis of the NIHR virtual aneurysm screening project. The aim of the project is to develop a targeted screening strategy for abdominal aortic aneurysm screening in the UK. Much like exists in the USA today. 
+This repository shares the code lists for our analysis of the NIHR virtual aneurysm screening project. The aim of the project is to develop a targeted screening strategy for abdominal aortic aneurysm screening in the UK.
 We will be using both CPRD Aurum and CPRD Gold datasets linked to NAAASP (NHS AAA screeing porgrammme) to develop our targeted screening algorithm. 
 watch this space...
 
